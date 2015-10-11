@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_add">Add</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add">AddActivity</string>
+    <string name="tvTitle">제목</string>
+    <string name="btConfirm">확인</string>
+    <string name="btCancel">취소</string>
+    <string name="action_form_grid">Form GridLayout</string>
+    <string name="action_form_linear">Form LinearLayout</string>
+    <string name="action_form_relative">Form RelativeLayout</string>
+    <string name="action_form_table">Form TableLayout</string>
+    <string name="formErrorTitle">제목을 입력하세요</string>
+    <string name="tvDate">날짜</string>
+    <string name="tvMonth">월</string>
+    <string name="tvDay">일</string>
+    <string name="rbSolar">양력</string>
+    <string name="rbLunar">음력</string>
+</resources>

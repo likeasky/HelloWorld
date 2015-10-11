@@ -1,0 +1,28 @@
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:stretchColumns="1">
+
+    <TableRow>
+        <TextView android:text="@string/tvTitle"
+            android:textStyle="bold"
+            android:gravity="right"
+            android:padding="3dp" />
+
+        <EditText
+            android:padding="3dp"
+            android:scrollHorizontally="true" />
+
+    </TableRow>
+
+    <TableRow android:gravity="right">
+        <Button
+            android:text="@string/btCancel"/>
+
+        <Button
+            android:text="@string/btConfirm"/>
+
+    </TableRow>
+
+
+</TableLayout>
